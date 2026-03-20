@@ -175,11 +175,11 @@
 - `sidebar` 配置结构发生变化，旧配置仍然兼容，但建议迁移到新配置
   ```yaml
   # 旧配置（仍然支持）
-  sidebar: right # left | right | false
+  sidebar: left # left | right | false
   
   # 新配置（推荐）
   sidebar:
-    position: right # left | right | false
+    position: left # left | right | false
     menu: true  # 是否显示侧边栏菜单按钮，在移动端上被忽略
     article:
       show_common: true # 是否在文章页显示通用侧边栏，在移动端上被忽略

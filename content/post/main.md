@@ -1,8 +1,8 @@
 ---
-title: Markdown Basic Elements
-description: 测试 Markdown 基本元素
+title: 嘗試玩自己的github網站
+description: 好玩遊戲一直玩
 
-date: 2022-06-09T20:12:52+08:00
+date: 2026-03-19T20:12:52+08:00
 lastmod: 2022-06-09T20:12:52+08:00
 tags:
   - markdown
@@ -90,7 +90,8 @@ Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipi
 
 ### 图片
 
-![image](https://d-sketon.top/img/backwebp/bg1.webp)
+<!-- ![image](https://d-sketon.top/img/backwebp/bg1.webp) -->
+<!-- ![image](/static/avatar/avatar.webp) -->
 
 ### 分隔线
 
@@ -508,4 +509,5 @@ $$ -->
 
 {{<postLinkCard path="/post/chinese" cover="auto" >}}
 
-{{<externalLinkCard title="Github" link="https://github.com/D-Sketon/hugo-theme-reimu" cover="https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png">}}
+<!-- {{<externalLinkCard title="Github" link="https://github.com/D-Sketon/hugo-theme-reimu" cover="https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png">}} -->
+{{<externalLinkCard title="Github" link="https://github.com/TRTUZ8/myAnime" cover="https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png">}}
