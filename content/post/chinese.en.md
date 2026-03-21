@@ -1,7 +1,7 @@
 ---
 title: Try github website
 cover: ./images/banner-800w.webp
-description: GPT in my left hand, Gemini in my right, Gork before my chest, and Claude at my waist.
+description: GPT in my left hand, Gemini in my right, Grok before my chest, and Claude at my waist.
 
 date: 2026-03-19T00:12:52+08:00
 lastmod: 2026-03-19T00:12:52+08:00

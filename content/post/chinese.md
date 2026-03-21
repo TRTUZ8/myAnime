@@ -1,7 +1,7 @@
 ---
 title: 嘗試弄個github網站
 cover: ./images/banner-800w.webp
-description: 左手GPT、右手Gemini、Gork在胸前、Claude在腰間
+description: 左手GPT、右手Gemini、Grok在胸前、Claude在腰間
 
 date: 2026-03-19T00:12:52+08:00
 lastmod: 2026-03-19T00:12:52+08:00
