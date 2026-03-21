@@ -1,6 +1,6 @@
 ---
-title: Hello github網站
-description: 好玩遊戲一直玩
+title: Hello github website
+description: Keep play fun games
 
 date: 2026-03-19T20:12:52+08:00
 lastmod: 2022-06-09T20:12:52+08:00
@@ -16,17 +16,15 @@ photos:
 ---
 
 ## 前言
-HI, 我是輝夜姬的狗  
+HI, I'm the dog of Kaguya.
   
-由於今天特別無聊，所以弄一個github的網站來玩，這是我一直都很想做的事情。  
+Since I was especially bored today, I decided to create a GitHub website for fun—something I’ve always wanted to do.  
 
-後續有時間就會更新東西上來，敬請期待~
-
-請記得使用繁體中文瀏覽，英文版我留著等未來擴充，如果你執意使用English進行瀏覽，他將會不可預期。
+I’ll keep updating it whenever I have time, so stay tuned!  
 
 2026-03-20
 
-![image](../../images/group.webp)
+![image](../../../images/group.webp)
 
 
 ## 卡片
