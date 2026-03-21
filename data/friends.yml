@@ -1,0 +1,17 @@
+- name: YouTube
+  url: https://youtube.com/channel/UC-6SqHvrr5sSD-NjVgLT8oQ?si=yQLX-Sx7Oyc9sreo
+  desc: 我的天R
+  image: https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg
+- name: 巴哈姆特
+  url: https://home.gamer.com.tw/profile/index.php?owner=tim65890
+  desc: 輝夜姬的狗
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtDVnXvTkCLk_RisVWZyxRnHvVFYk_csuT9Q&s
+
+- name: github
+  url: https://github.com/TRTUZ8
+  desc: TRTUZ8
+  image: "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png"
+- name: leetcode
+  url: https://leetcode.com/u/tim22816589/
+  desc: 
+  image: "https://hexmos.com/freedevtools/svg_icons/leetcode/leetcode-original.svg"

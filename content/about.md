@@ -1,9 +1,13 @@
 ---
-title: 关于
-description: 关于
+title: about me
+description: 關於我
 
 date: 2022-06-09T20:12:52+08:00
 lastmod: 2022-06-09T20:12:52+08:00
 ---
 
-A Hakurei Reimu style Hugo theme. Migrated from [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu).
+HI, 我是Kaguya的狗  
+
+曾經，我也迷茫的活著，直到我認識了Shinomiya Kaguya.
+
+  
