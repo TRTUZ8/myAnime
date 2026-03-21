@@ -10,7 +10,7 @@ lastmod: 2026-03-19T00:12:52+08:00
 無聊玩玩
 
 花了一天才免強搞出一些東西。  
-特別致謝Gemini與GPT的幫忙，還有Gork。
+特別致謝Gemini與GPT的幫忙，還有Grok。
 
 > 網頁模板來源:*[https://github.com/D-Sketon/hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu)*
 
