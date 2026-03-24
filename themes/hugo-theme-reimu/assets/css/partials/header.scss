@@ -13,6 +13,7 @@
     user-select: none;
     display: block;
     object-fit: cover;
+    // object-position: top;
     transition: 0.3s;
     -webkit-mask: linear-gradient(to top, transparent, #fff 50%);
     mask: linear-gradient(to top, transparent, #fff 50%);

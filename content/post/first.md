@@ -1,0 +1,30 @@
++++
+date = '2026-03-24T21:26:13+08:00'
+draft = false
+title = '弄網頁心得'
+cover = 'https://scontent.ftpe20-1.fna.fbcdn.net/v/t39.30808-6/657357295_3036193289922550_6321932239372117851_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=z9qgU9AY1wsQ7kNvwExu187&_nc_oc=Adr5QOzOJcSCDF2BRLVVgHajFOccANeBPCyXHD6JrpJpzyTdMutMupSpKHenMMu3Lsw&_nc_zt=23&_nc_ht=scontent.ftpe20-1.fna&_nc_gid=Y_z3Q0i5cAQ2gzStKRhkYg&_nc_ss=7a32e&oh=00_AfyolydEkoHpUzDSptgqeNuIB15zsREO1AXovy2djK1kTQ&oe=69C8632B'
+description = '關於我無意間領悟了驚世智慧存圖大法這件事'
++++
+## 前言
+結果弄好後，其實也不知道要更新什麼文章，起初我是想弄個動畫紀錄，讓他更美觀一些，可以多寫一些心得，然後弄個該部番的代表圖，但模板沒看到什麼有趣的(其實也沒找多久)，就想說算了，隨便找個先求有再求好。然後就變成這副模樣了...
+
+## 心得
+麻，起初來弄網站也是想更熟一點git語法，不然到頭來都只會git add . 、 git commit -m ""、 git push，感覺就是個資工門外漢你知道嗎，不過說是這樣說，阿弄老半天我現在還是只會這個，頂多更熟了一點git init...因為我把這個專案砍掉重來超多次的...  
+  
+不過還是有增加一些經驗值就是...
+  
+譬如網站的圖片，在模板當中其實都是用url去連結到其他放圖片的地方，但我又很懶得去把圖片放在其他地方，可是如果不這樣做 github 的空間遲早有一天被圖片吃光光..(圖片都大得要命) 這點就很麻煩你知道嗎，不能曬我老婆的照片。阿如果隨便去找其他網路上的url圖連過去，阿連結到時候死掉我又要再維護...
+  
+還有這超白癡的中英雙語網站，你一篇文章要同時有"中文"與"英文"的檔案，對，這可能是廢話，但我還是覺得超白癡。主要是我今天心血來潮用中文打一篇文章，阿然後哩，英文版要不要更新? 要? 阿要怎麼更新? 直接丟 google翻譯? 還是丟AI翻譯? 阿要不要時間搞這個(雖然好像也不會花多久)，但現在網站都有翻譯外掛的功能，其實也不怎麼需要做多語言就是...尤其是這什麼hugo的語法，學都沒學過..我英文的文章跟中文文章的管理路徑還會不同層(雖然應該可以解決, 但就是懶...他會動就好...)，不過有一說一，學習本來就是這樣...
+  
+還有就是放圖片很吃載入速度跟流量(應該)，如果圖片太多可能造成瀏覽會很卡或是你連進來會吃很多流量 (就像標註(圖多慎入)那樣)，不過我本來就是要來曬我老婆的。所以請盡可能地用wifi瀏覽吧~~
+  
+還有一點就是hugo這語法我是沒學過，到時候他哪天突然更新或github的action又更新改版怎樣的，這個網站編譯不過死掉就很麻煩...我只能說且看且珍惜就是..
+
+## 老婆圖 
+欸笑死，結果我在搞這附圖發現到一個驚世智慧存圖法，我在FB或twitter發文章附圖片，可以直接貼那張圖片連結就讀得到了，笑死。(阿google drive試過了，會死圖...也不知道為啥...不過我還是認為驚世智慧存圖法更勝一點...因為他甚至不吃我的空間...) 經驗值 up! up!
+  
+  四宮輝夜我老婆 OuOb
+![image](https://scontent.ftpe20-1.fna.fbcdn.net/v/t39.30808-6/657357295_3036193289922550_6321932239372117851_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=z9qgU9AY1wsQ7kNvwExu187&_nc_oc=Adr5QOzOJcSCDF2BRLVVgHajFOccANeBPCyXHD6JrpJpzyTdMutMupSpKHenMMu3Lsw&_nc_zt=23&_nc_ht=scontent.ftpe20-1.fna&_nc_gid=Y_z3Q0i5cAQ2gzStKRhkYg&_nc_ss=7a32e&oh=00_AfyolydEkoHpUzDSptgqeNuIB15zsREO1AXovy2djK1kTQ&oe=69C8632B)
+
+

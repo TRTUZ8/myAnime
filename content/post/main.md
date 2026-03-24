@@ -13,6 +13,7 @@ math: true
 mermaid: true
 photos:
   # - ./images/banner-600w.webp
+cover:  './images/group.webp'
 ---
 
 ## 前言
