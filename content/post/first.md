@@ -2,8 +2,10 @@
 date = '2026-03-24T21:26:13+08:00'
 draft = false
 title = '弄網頁心得'
-cover = 'https://scontent.ftpe20-1.fna.fbcdn.net/v/t39.30808-6/657357295_3036193289922550_6321932239372117851_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=z9qgU9AY1wsQ7kNvwExu187&_nc_oc=Adr5QOzOJcSCDF2BRLVVgHajFOccANeBPCyXHD6JrpJpzyTdMutMupSpKHenMMu3Lsw&_nc_zt=23&_nc_ht=scontent.ftpe20-1.fna&_nc_gid=Y_z3Q0i5cAQ2gzStKRhkYg&_nc_ss=7a32e&oh=00_AfyolydEkoHpUzDSptgqeNuIB15zsREO1AXovy2djK1kTQ&oe=69C8632B'
-description = '關於我無意間領悟了驚世智慧存圖大法這件事'
+cover = './images/kaguya_love.webp'
+description = '關於我無意間領悟了驚世智慧存圖大法這件事 (最後夢一場) '
+tags = ['網頁心得']
+categories = ['心得']
 +++
 ## 前言
 結果弄好後，其實也不知道要更新什麼文章，起初我是想弄個動畫紀錄，讓他更美觀一些，可以多寫一些心得，然後弄個該部番的代表圖，但模板沒看到什麼有趣的(其實也沒找多久)，就想說算了，隨便找個先求有再求好。然後就變成這副模樣了...
@@ -22,9 +24,10 @@ description = '關於我無意間領悟了驚世智慧存圖大法這件事'
 還有一點就是hugo這語法我是沒學過，到時候他哪天突然更新或github的action又更新改版怎樣的，這個網站編譯不過死掉就很麻煩...我只能說且看且珍惜就是..
 
 ## 老婆圖 
-欸笑死，結果我在搞這附圖發現到一個驚世智慧存圖法，我在FB或twitter發文章附圖片，可以直接貼那張圖片連結就讀得到了，笑死。(阿google drive試過了，會死圖...也不知道為啥...不過我還是認為驚世智慧存圖法更勝一點...因為他甚至不吃我的空間...) 經驗值 up! up!
+欸笑死，結果我在搞這附圖發現到一個驚世智慧存圖法，我在FB或twitter發文章附圖片，可以直接貼那張圖片連結就讀得到了，笑死。(阿google drive試過了，會死圖...也不知道為啥...不過我還是認為驚世智慧存圖法更勝一點...因為他甚至不吃我的空間...) 經驗值 up! up!  
+26/03/29更新: 今天上去看一下結果發現圖死掉了，回去FB看了一下發現連結ID改了，有趣，不是很意外，不然大家就拿FB直接當圖床了。原本要把圖放到imgur，但一直聯不進去，只好先放github...邪修倒地= =
   
   四宮輝夜我老婆 OuOb
-![image](https://scontent.ftpe20-1.fna.fbcdn.net/v/t39.30808-6/657357295_3036193289922550_6321932239372117851_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=z9qgU9AY1wsQ7kNvwExu187&_nc_oc=Adr5QOzOJcSCDF2BRLVVgHajFOccANeBPCyXHD6JrpJpzyTdMutMupSpKHenMMu3Lsw&_nc_zt=23&_nc_ht=scontent.ftpe20-1.fna&_nc_gid=Y_z3Q0i5cAQ2gzStKRhkYg&_nc_ss=7a32e&oh=00_AfyolydEkoHpUzDSptgqeNuIB15zsREO1AXovy2djK1kTQ&oe=69C8632B)
+![image](../../images/kaguya_love.webp)
 
 
