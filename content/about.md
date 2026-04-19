@@ -1,10 +1,10 @@
 ---
-title: about me
+title: 關於我
 description: 關於我
 
 date: 2022-06-09T20:12:52+08:00
 lastmod: 2022-06-09T20:12:52+08:00
-cover: './images/students.png'
+cover: './images/students.webp'
 ---
 
 HI, 我是Kaguya的狗  
