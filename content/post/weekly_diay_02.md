@@ -2,9 +2,11 @@
 date = '2026-04-19T16:02:05+08:00'
 draft = false
 title = '週記 #2'
+thumbnail = './images/memory.webp'
 cover = './images/tonikaku_kawaii.webp'
 categories = ['週記']
 description = '初戰 leetcode 週賽'
+
 +++
 ## 本週記事
 這週其實沒啥重要的事情發生，在我撰寫的同時試著回想一到日到底做了些什麼，好像都只想得到跟leetcode有關的事情(笑)。主要也是這週在碩士上突然被丟破事情要處理(幫別人處理爛攤子)，這讓我有點不爽，但我也不會多說什麼，畢竟抱怨不能改變任何事情，不過我還是建議教授到點時就該放飯，不然我真的會逐漸牙起來。

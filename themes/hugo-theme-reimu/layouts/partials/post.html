@@ -42,8 +42,10 @@
       {{ end }}"
     >
       {{- if and $page.Params.cover (not (hasPrefix $page.Params.cover "rgb")) -}}
+      {{- /* 先定義一個變數 $imgSrc優先抓 thumbnail如果沒有就抓 cover */ -}}
+{{- $imgSrc := $page.Params.thumbnail | default $page.Params.cover -}}
         <img
-          data-src="{{ $page.Params.cover | relURL }}"
+          data-src="{{ $imgSrc | relURL }}"
           data-sizes="auto"
           alt="{{ .Title }}"
           class="lazyload"

@@ -124,7 +124,7 @@
       {{- else if .Site.Params.cover -}}
         <picture></picture>
         <img {{ if .Site.Params.material_theme.enable }}crossorigin="anonymous"{{ end }} fetchpriority="high" src="{{ .Site.Params.cover | relURL }}" alt="{{ .Title }}">
-      {{- else if eq .Site.Params.cover false -}}
+        {{- else if eq .Site.Params.cover false -}}
         <picture></picture>
         <img style="visibility:hidden"></img>
       {{- else -}}

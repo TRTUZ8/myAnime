@@ -3,6 +3,7 @@ date = '2026-04-11T11:09:43+08:00'
 draft = false
 title = '第一篇週記'
 cover = './images/kana.webp'
+thumbnail = './images/memory.webp'
 categories = ['週記']
 description = '快期中考的同時、leetcode又碰壁'
 +++
