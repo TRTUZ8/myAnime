@@ -22,8 +22,9 @@ hi, 我是kaguya的狗, 我最喜歡kaguya了
 範例程式皆使用 C++ 示範
 
 
-## 宣告技巧
-### 陣列初始化 iota
+## 宣告技巧 & STL
+這部分的東西都滿簡單的，但因為不常用，所以很常忘記
+### iota
 初始化陣列可以直接使用iota，讓他為從 0 開始的連續整數  
 省得用for再去初始化
 ```cpp
@@ -31,7 +32,42 @@ vector<int> v(5, 0) //初始化為[0, 0, 0, 0, 0]
 std::iota(v.begin(), v.end(), 0) // 會變成[0,1,2,3,4]
 
 ```
-
+### vector.pop_back()
+刪除最後一個元素
+```cpp
+vector<int> v; // or string v;
+v.pop_back(); //砍掉尾巴
+```
+### continue
+迴圈略過
+```cpp
+for (int i = 0; i < 100; ++i) {
+  if (n !=0) { //當沒使用continue時，可能會這樣去跳過某個點
+    ...do something
+  }
+}
+for (int i = 0; i < 100; ++i) {
+  if (n == 0) continue; //這樣可以省去 if {}
+  ...do something
+}
+```
+### Ternary Operator(三元運算子)
+```cpp
+int ans = A == B ? C : D; //等同 if A等於B ans = C; else ans = D
+```
+### switch default
+```cpp
+switch () {
+  case A :
+    ...
+    break;
+  case B :
+    ...
+    break;
+  default:
+    ... //當case A 與 B 都不成立時
+}
+```
 ## 並查集Disjoint Set (Union-Find) 2026-04-26更新
 主要是在處理 set 合併上非常的高效  
 

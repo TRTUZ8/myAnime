@@ -1,11 +1,11 @@
 +++
 date = '2026-04-26T18:13:47+08:00'
 draft = false
-title = '周記 #3'
+title = '週記 #3'
 cover = './images/kon.webp'
 thumbnail = './images/memory.webp'
 categories = ['週記']
-description = '期中考周 與 leetcode rank 的結果'
+description = 'leetcode rank 的結果 與 期中考週'
 +++
 
 ## 本週記事
@@ -33,5 +33,7 @@ description = '期中考周 與 leetcode rank 的結果'
 之後周記應該都改為分享一部我看過的動畫作品 (目前的存量應該還可以支持個一、二年)  
 今天分享的是K-on! ， K-on!絕對是前三名喜歡的。  每位角色都非常可愛。 
 ![image](../../images/kon.webp)
+
+
   
 -2026 / 04 / 26
