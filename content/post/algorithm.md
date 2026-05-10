@@ -68,6 +68,18 @@ switch () {
     ... //當case A 與 B 都不成立時
 }
 ```
+### lower_bound / upper_bound
+重要:使用二分搜尋，數列必須是遞增(已排序)，時間複雜度為O(log n)  
+lower_bound 找到第一個"大於等於 target"的位置  
+upper_bound 找到第一個"大於 target"的位置   
+```cpp
+vector<int> v{2, 3, 5, 7, 11};
+//通常尾端會搭配 - v.begin() 取得 index，否則本身是回傳 iterator
+int a = lower_bound(v.begin(), v.end(), 5) - v.begin();  // a = 2 因為v[2] >= 5
+int b = upper_bound(v.begin(), v.end(), 5) - v.begin();  // b = 3 因為v[3] > 5
+int c = lower_bound(v.begin(), v.end(), 13) - v.begin(); // c = 5 當找不到時會等於v.size()
+```
+
 ## 並查集Disjoint Set (Union-Find) 2026-04-26更新
 主要是在處理 set 合併上非常的高效  
 
