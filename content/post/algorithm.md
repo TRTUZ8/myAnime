@@ -28,16 +28,35 @@ hi, 我是kaguya的狗, 我最喜歡kaguya了
 初始化陣列可以直接使用iota，讓他為從 0 開始的連續整數  
 省得用for再去初始化
 ```cpp
-vector<int> v(5, 0) //初始化為[0, 0, 0, 0, 0]
-std::iota(v.begin(), v.end(), 0) // 會變成[0,1,2,3,4]
+vector<int> v(5, 0); //初始化為[0, 0, 0, 0, 0]
+std::iota(v.begin(), v.end(), 0); // 會變成[0,1,2,3,4]
 
 ```
+### vector.insert()
+insert(pos, val) 在pos位置的前面，插入val  
+複雜度為O(n)，在插入的index後面元素全部都要挪動
+```cpp
+vector<int> v(5, 0); //初始化為[0, 0, 0, 0, 0]
+
+v.insert(v.begin(), 5);    //變成[5, 0, 0, 0, 0, 0]
+v.insert(v.begin() + 2, 7) //變成[5, 0, 7, 0, 0, 0, 0]
+
+```
+
 ### vector.pop_back()
 刪除最後一個元素
 ```cpp
 vector<int> v; // or string v;
 v.pop_back(); //砍掉尾巴
 ```
+### reverse()
+翻轉，時間複雜度O(n)，vector 或 string 都可以用
+```cpp
+vector<int> v{2, 3, 5, 7}; 
+reverse(v.begin(), v.end())  //變成[7, 5, 3, 2]
+reverse(v.begin() + 1, v.end()) // [7, 2, 3, 5]
+```
+
 ### continue
 迴圈略過
 ```cpp

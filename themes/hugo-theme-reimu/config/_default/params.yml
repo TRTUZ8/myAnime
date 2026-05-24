@@ -8,6 +8,9 @@ menu:
   - name: home
     url: ""
     icon: # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
+  - name: diary
+    url: "diary"
+    icon: 
   - name: archives
     url: "archives"
     icon:
